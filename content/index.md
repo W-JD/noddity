@@ -6,12 +6,9 @@ title: 电脑笔记!
 ========
 
 
+- [HTML](http://w3school.com.cn/h.asp) w3school 中文
 
-- "Edit" button on every page so that people can fix my spelling mistakes for me (via pull requests on Github!)
-- [MediaWiki-style internal links](https://www.mediawiki.org/wiki/Help:Links#Internal_links
-- [MediaWiki-style templates](https://www.mediawiki.org/wiki/Help:Templates), with parameters
-
-Downsides
+aaaa
 -------
 
 The obvious downsides are a side effect of serving up markdown from the server and using a single-page app to render the on the client-side.  Without server-side code, you don't get an RSS feed or an easily-spiderable site for the search engine bots.
