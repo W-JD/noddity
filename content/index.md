@@ -1,23 +1,14 @@
-title: Welcome to Noddity, the awesome cms-thing!
+title: 电脑笔记!
 
-I wrote Noddity to replace the unnecessarily-heavy backend-centric framework that was running my personal blog-site.
+这个是我在学习CS的时候的笔记。
 
-Its purpose is to give me (and anyone else inclined to use it) an easy way to publish markdown-based content to a minimalist blog or wiki-type site.
-
-Distinctives
+目录
 ========
 
-1. All the CMS magic is client-side - no server-side interpreter necessary, can deploy on vanilla Apache/Nginx/whatever
-2. No build step when you add or change content - the backend is a [[noddity-backend.md|directory full of markdown files]]
-3. Absurdly fast response time after initial pageload - the goal is to have all content cached locally so that displaying new pages is not waiting on any HTTP requests
 
-Features
-========
-
-Those were my primary goals while writing this thing, but some of my other priorities soaked through too:
 
 - "Edit" button on every page so that people can fix my spelling mistakes for me (via pull requests on Github!)
-- [MediaWiki-style internal links](https://www.mediawiki.org/wiki/Help:Links#Internal_links)
+- [MediaWiki-style internal links](https://www.mediawiki.org/wiki/Help:Links#Internal_links
 - [MediaWiki-style templates](https://www.mediawiki.org/wiki/Help:Templates), with parameters
 
 Downsides
